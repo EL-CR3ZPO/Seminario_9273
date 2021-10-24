@@ -4,7 +4,9 @@ Seminario de Estadística I: Introducción a la Ciencia de Datos y Machine Learn
 Grupo 9273
 
 Profesor:	Rodrigo Quijón Hipólito
+
 Ayudante:	Jimmy Hernández Morales
+
 Ayudante:	María Ximena Aguirre Pessina
 
 Equipo: 
