@@ -1,15 +1,16 @@
-# 
-Seminario de Estadística I: Introducción a la Ciencia de Datos y Machine Learning 
+#  Seminario de Estadística I: Introducción a la Ciencia de Datos y Machine Learning 
 
-Grupo 9273
+Grupo 9273 ☕
 
-Profesor:	Rodrigo Quijón Hipólito
+Profesor: Rodrigo Quijón Hipólito
 
 Ayudante:	Jimmy Hernández Morales
 
 Ayudante:	María Ximena Aguirre Pessina
 
-Equipo: 
+
+
+Equipo: 🖥️ 🖱️
 
 Chim Hernandez Jorge Raul
 jorgechim@ciencias.unam.mx
