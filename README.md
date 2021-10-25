@@ -1,6 +1,7 @@
 #  Seminario de Estadística I: Introducción a la Ciencia de Datos y Machine Learning 
+# ☕
 
-Grupo 9273 ☕
+Grupo 9273 🏫
 
 Profesor: Rodrigo Quijón Hipólito
 
