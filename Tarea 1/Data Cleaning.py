@@ -22,4 +22,9 @@ comportamiento_3 = pd.read_csv(path + bd6)
 inicio_parte_1 = pd.read_csv(path + bd7, sep =' ')
 
 # Missing values
+missing_data=ini_externa.isnull()
 
+for column in missing_data.columns.values.tolist():
+    print(column)
+    print(missing_data[column].value_counts())
+    print("")
