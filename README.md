@@ -25,5 +25,10 @@ martindominguez@ciencias.unam.mx
 Martinez Garcia Guillermo Augusto 
 guillermoaug@gmail.com
 
+
+# Notas 
+Tarea 1 🥇
+El ejercicio 1 se encuentra en Ejercicio_1.ipynb
+Los ejercicios 2 y 3 se encuentran en Bootstrap parte 2.ipynb
                                                                                                             
                                                                                                             
