@@ -1,6 +1,8 @@
-# TAREA 2:
+# TAREA 2: ☕
 
 # Instrucciones
+
+# ✒️
 
 1.- Hacer un modelo regresión logistica con woes con la tabla que generaron en la tarea 1.  
 2.- Hacer un árbol de clasificación con la misma tabla que el problema 1. No olviden que tienen que hacer el ajuste de hiperparámetros.  
