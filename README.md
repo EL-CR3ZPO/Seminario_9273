@@ -20,7 +20,7 @@ Crespo Bravo Gerardo
 crespo_28@ciencias.unam.mx
 
 ~~Domínguez Narcia Martin Enrique 
-martindominguez@ciencias.unam.mx
+martindominguez@ciencias.unam.mx~~
 
 Martinez Garcia Guillermo Augusto 
 guillermoaug@gmail.com
